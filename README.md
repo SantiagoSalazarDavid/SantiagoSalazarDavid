@@ -1,3 +1,9 @@
+<br/>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/45073703/177566625-9b84e793-4559-4475-ba54-8d3d5f4123d4.png" width="35%">
+</p>
+<br/>
 I'm a Full Stack Developer with expertise in MERN, MEAN, Android, Blockchain technologies and Web 3D/WebGL development. I’m passionate about building decentralized applications and engaging interactive experiences on the web.
 
  <h3>Skills</h3>h3>
