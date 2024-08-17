@@ -45,9 +45,6 @@
 </p>
 -->
 
-![ashokasec's Stats](https://github-readme-stats.vercel.app/api?username=ashokasec&theme=algolia&show_icons=true&hide_border=true&count_private=true) ![ashokasec's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ashokasec&theme=algolia&hide_border=true)
-
-<a href="https://www.github.com/ashokasec"><img src="https://github-readme-activity-graph.vercel.app/graph?username=ashokasec&theme=react-dark" alt="GitHub Commits Graph" /></a>
 
 
 <!-- [![Tanishka's github activity graph](https://activity-graph.herokuapp.com/graph?username=FullstackWEB-developer&theme=github&count_private=true&area=true&hide_border=true)](https://activity-graph.herokuapp.com/graph?username=FullstackWEB-developer&theme=github&count_private=true) -->
