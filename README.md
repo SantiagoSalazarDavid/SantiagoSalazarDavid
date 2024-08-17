@@ -1,3 +1,8 @@
+<p align="center">
+ <a href="https://lucianofullstack.pages.dev">
+ <img src="./assets/lucianopereira.svg" alt="Luciano Pereira">
+ </a>
+</p>
 ### 🧑‍💻 Lenguajes de programación
 
 ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Javascript](https://img.shields.io/badge/Javascript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
